@@ -9,4 +9,4 @@ Plugin for UASECO. Display the best time/player of each checkpoint for the curre
 3. Append `<plugin>plugin.checkpoint_records.php</plugin>` to your __config/plugins.xml__
 
 ### Download
-[[v1.0] checkpoint_records.zip (4.88 KB)](https://github.com/brakerb/checkpoint_records/releases/download/1.0/checkpoint_records.zip)
+[[v1.0] checkpoint_records.zip (4.88 KB)](https://github.com/EvolutionTM/checkpoint_records/releases/download/v1.0/checkpoint_records.zip)
